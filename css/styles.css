@@ -1,7 +1,4 @@
-<html>
-<head>
-<title> css</title></head><body>
-      body{
+body{
 
 padding-left: 8em;
 font-family: Georgia, "Times New Roman",
@@ -32,8 +29,7 @@ form{
     display: inline-block;
     text-align: right;
 }
-a
- {text-decoration: none;
+a{text-decoration: none;
  text-size-adjust: 25px;
  color: rgb(74, 74, 212);
  }
@@ -44,52 +40,3 @@ a:link {
   background-color: rgb(238, 211, 59);
 
 }
-</body>
-</html><html>
-<head>
-<title> css</title></head><body>
-      body{
-
-padding-left: 8em;
-font-family: Georgia, "Times New Roman",
-  Times, serif;
-color: black;
-background-color: #F0E68C;
- }
-
-h1{
-    text-align:start;
-    color: green;
-font-family:'Times New Roman', Times, serif; 
-      }
-
-      h2{
-          text-align:right;
-          font-family: Georgia, 'Times New Roman', Times, serif;
-          padding-right: 10em;
-      }
-p{
-    font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
- color: rgb(87, 25, 44);
-text-align: right;
-margin-right: 5em;
-}
-form{
-    display: inline-block;
-    text-align: right;
-}
-a
- {text-decoration: none;
- text-size-adjust: 25px;
- color: rgb(74, 74, 212);
- }
- a:hover {
-  color: hotpink;
-}
-a:link {
-  background-color: rgb(238, 211, 59);
-
-}
-</body>
-</html>
